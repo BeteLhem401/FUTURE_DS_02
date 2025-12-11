@@ -123,7 +123,8 @@ Repository Structure
 📦 Facebook-Ads-PowerBI
 ├─ 📁 Power_Bi (.pbix file + viuals )
 ├─ 📁 Data ( raw CSVs)
-├─ 📁 Python (data cleaning ,KPI calculations + cleaned dataset )
+├─ 📁 notebooks
+(data cleaning.ipynb (cleaning, KPI calculations... )+ cleaned dataset )
 ├─ README.md (this file)
 
 How to Use the Report
