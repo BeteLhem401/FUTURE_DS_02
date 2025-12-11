@@ -1,5 +1,5 @@
 # FUTURE_DS_02
-Digital Marketing Analytics – Power BI Project
+FB ad Analytics – Power BI Project
 
 This project transforms Facebook Ads campaign data into a complete analytics solution. The goal was to clean and structure raw campaign data, calculate key KPIs, and design a clear, actionable Power BI dashboard that delivers real business insights — not just visuals.
 
